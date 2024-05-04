@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+
+}
+h1{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin-right:20px;
+
+}
+nav{
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 80px;
+}
+nav ul li{
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    font-family: italic;
+
+
+}

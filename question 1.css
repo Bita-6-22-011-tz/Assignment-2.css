@@ -1,0 +1,33 @@
+body{
+    align-items: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: itallic;
+    margin-bottom: 1px;
+    font-size: 150px; 
+    background-image: linear-gradient(
+        to right, #4285f4 20% 26%,
+        #ea4335 25% 43%,
+        #fbbc05 40% 58%,
+        #4285f4 58% 75%,
+        #34a853 75% 85%,
+        #ea4335 83%);
+        display:inline-block;
+        -webkit-background-clip:text;
+        color: transparent;
+}
+
+.sulley {
+    input{
+    width: 600px;
+    height: 20px;
+    margin-top: 1px;
+}
+}
+
+button{
+    text-align: center;
+    color: grey;
+    margin-right: 20px;
+}

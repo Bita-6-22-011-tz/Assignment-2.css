@@ -1,0 +1,15 @@
+img{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 20px;
+}
+.container{
+    max-width: 8000px;
+    margin: auto;
+    overflow: hidden;
+
+}
+.text-info{
+    font-style: italic;
+}
